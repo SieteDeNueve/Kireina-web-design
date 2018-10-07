@@ -1,0 +1,10 @@
+{
+  "name": "kireina",
+  "version": "0.0.1",
+  "description": "Portfolio website project",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Daliborka Vukašinović"
+}
