@@ -77,7 +77,7 @@ $ = require('jquery');
 
 (fill = function(item) {
   return $('.tagline').append(`${item}`);
-})('Dizajn po vašoj meri');
+})('Dizajn napravljen za vas.');
 
 fill;
 
